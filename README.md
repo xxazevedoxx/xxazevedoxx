@@ -2,6 +2,7 @@
 
 - 👨‍💻 Desenvolvedor Full Stack Junior 
 - 🚀 Tenho conhecimento em HTML, PHP, CSS, JavaScript, TypeScript, jQuery, ReactJS, Next.js, Node.js, MySQl!
+- 🚀 Tenho conhecimento em Android Studio, Visual Studio Code, Astah, Qtdesigner, Xampp, Figma, Canva
 - 📧 Contate-me por email: xxazevedoxx2004@gmail.com
 - 📲 Contate-me no whatsapp: (55) 53 999095990
 
